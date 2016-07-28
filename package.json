@@ -1,0 +1,19 @@
+{
+  "name": "react-comments",
+  "version": "1.0.0",
+  "description": "testing project for react",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amila",
+  "license": "ISC",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "request": "^2.53.0",
+    "underscore": "^1.8.3"
+  }
+}
